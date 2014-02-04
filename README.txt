@@ -4,4 +4,4 @@
 #####    based in South East England.  http://www.ibexuk.com     #####
 ######################################################################
 
-Simple PIC18 DMX receive driver for C18 compiler
+Visit http://www.embedded-code.com/source-code/communications/dmx512/pic18-dmx-receive-driver for project information
